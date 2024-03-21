@@ -1,0 +1,9 @@
+los pixeles: unidad de medida absoluta, me asegura la adptabilidad y visualizacion en todos los dipositivos moviles siempre tiene el mismo valor en pantalla no se deforma
+
+
+los porcentaje: se adapta al tamaño del dispositivo en uso
+
+
+text transforamtion: es el proceso de modificar una secuencia de texto en otra secuencia de texto
+
+efecto hover: es un cambio visual que ocurro cuando se colaca el cursor encima de un elemento iteractivo. pueden ser enlaces, imagenes, botones e iconos
